@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
-"""Скачивает фид и ограничивает <stock_quantity> до MAX_STOCK (меньшие значения не меняет)."""
+"""Скачивает фид и:
+1) ограничивает <stock_quantity> до MAX_STOCK (меньшие значения не меняет);
+2) если задан MIN_STOCK: товары с остатком МЕНЬШЕ MIN_STOCK скрывает
+   (available="false" и stock_quantity=0). Пример: MIN_STOCK=4 скроет товары с остатком 1, 2, 3.
+   MIN_STOCK=0 (по умолчанию) ничего не скрывает."""
 import os, re, sys, urllib.request
 
 MAX_STOCK = int(os.environ.get("MAX_STOCK", "5"))
+MIN_STOCK = int(os.environ.get("MIN_STOCK", "0"))
 SRC = os.environ.get("FEED_URL") or (sys.argv[1] if len(sys.argv) > 1 else None)
 OUT = os.environ.get("OUT_FILE", "feed.xml")
 if not SRC:
@@ -15,19 +20,36 @@ else:
     raw = open(SRC, "rb").read()
 
 text = raw.decode("utf-8")  # BOM сохраняется как есть
-changed = total = 0
+stats = {"total": 0, "capped": 0, "hidden": 0}
 
-def fix(m):
-    global changed, total
-    total += 1
-    n = int(m.group(2))
-    if n > MAX_STOCK:
-        changed += 1
-        n = MAX_STOCK
-    return f"{m.group(1)}{n}{m.group(3)}"
+STOCK_RE = re.compile(r"(<stock_quantity>\s*)(\d+)(\s*</stock_quantity>)")
 
-new = re.sub(r"(<stock_quantity>\s*)(\d+)(\s*</stock_quantity>)", fix, text)
-if total == 0:
+def fix_offer(m):
+    attrs, body = m.group(1), m.group(2)
+    q = STOCK_RE.search(body)
+    if not q:
+        return m.group(0)                      # у товара нет остатка — не трогаем
+    stats["total"] += 1
+    n = int(q.group(2))
+    new_n = n
+    if MIN_STOCK and n < MIN_STOCK:            # мало на складе: скрываем
+        new_n = 0
+        if n > 0:
+            stats["hidden"] += 1
+        if re.search(r'\bavailable="\w+"', attrs):
+            attrs = re.sub(r'\bavailable="\w+"', 'available="false"', attrs)
+        else:
+            attrs += ' available="false"'
+    elif n > MAX_STOCK:                        # много на складе: показываем не больше MAX_STOCK
+        new_n = MAX_STOCK
+        stats["capped"] += 1
+    body = body[:q.start(2)] + str(new_n) + body[q.end(2):]
+    return "<offer" + attrs + ">" + body + "</offer>"
+
+new = re.sub(r"<offer\b([^>]*)>(.*?)</offer>", fix_offer, text, flags=re.S)
+if stats["total"] == 0:
     sys.exit("В фиде не найдено <stock_quantity>: файл не записан")
 open(OUT, "wb").write(new.encode("utf-8"))
-print(f"Товаров: {total}, уменьшено до {MAX_STOCK}: {changed}, без изменений: {total-changed}")
+print(f"Товаров: {stats['total']}, уменьшено до {MAX_STOCK}: {stats['capped']}, "
+      f"скрыто (остаток меньше {MIN_STOCK}): {stats['hidden']}, "
+      f"без изменений: {stats['total'] - stats['capped'] - stats['hidden']}")
