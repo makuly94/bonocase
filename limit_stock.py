@@ -8,6 +8,9 @@ import os, re, sys, urllib.request
 
 MAX_STOCK = int(os.environ.get("MAX_STOCK", "5"))
 MIN_STOCK = int(os.environ.get("MIN_STOCK", "0"))
+# Как назвать тег с остатком в итоговом фиде. По умолчанию как в исходнике (stock_quantity).
+# Для замены задайте STOCK_TAG=quantity_in_stock
+STOCK_TAG = os.environ.get("STOCK_TAG", "stock_quantity").strip() or "stock_quantity"
 SRC = os.environ.get("FEED_URL") or (sys.argv[1] if len(sys.argv) > 1 else None)
 OUT = os.environ.get("OUT_FILE", "feed.xml")
 if not SRC:
@@ -20,7 +23,7 @@ else:
     raw = open(SRC, "rb").read()
 
 text = raw.decode("utf-8")  # BOM сохраняется как есть
-stats = {"total": 0, "capped": 0, "hidden": 0}
+stats = {"total": 0, "capped": 0, "hidden": 0, "renamed": 0, "tag_skipped": 0}
 
 STOCK_RE = re.compile(r"(<stock_quantity>\s*)(\d+)(\s*</stock_quantity>)")
 
@@ -43,7 +46,15 @@ def fix_offer(m):
     elif n > MAX_STOCK:                        # много на складе: показываем не больше MAX_STOCK
         new_n = MAX_STOCK
         stats["capped"] += 1
-    body = body[:q.start(2)] + str(new_n) + body[q.end(2):]
+    pre, post = q.group(1), q.group(3)
+    if STOCK_TAG != "stock_quantity":
+        if "<" + STOCK_TAG + ">" in body:      # такой тег уже есть — не создаём дубль
+            stats["tag_skipped"] += 1
+        else:
+            pre = pre.replace("stock_quantity", STOCK_TAG)
+            post = post.replace("stock_quantity", STOCK_TAG)
+            stats["renamed"] += 1
+    body = body[:q.start()] + pre + str(new_n) + post + body[q.end():]
     return "<offer" + attrs + ">" + body + "</offer>"
 
 new = re.sub(r"<offer\b([^>]*)>(.*?)</offer>", fix_offer, text, flags=re.S)
@@ -52,4 +63,6 @@ if stats["total"] == 0:
 open(OUT, "wb").write(new.encode("utf-8"))
 print(f"Товаров: {stats['total']}, уменьшено до {MAX_STOCK}: {stats['capped']}, "
       f"скрыто (остаток меньше {MIN_STOCK}): {stats['hidden']}, "
-      f"без изменений: {stats['total'] - stats['capped'] - stats['hidden']}")
+      f"без изменений: {stats['total'] - stats['capped'] - stats['hidden']}"
+      + (f"; тег переименован в <{STOCK_TAG}>: {stats['renamed']}" if STOCK_TAG != "stock_quantity" else "")
+      + (f" (пропущено, тег уже был: {stats['tag_skipped']})" if stats["tag_skipped"] else ""))
