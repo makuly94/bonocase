@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><yml_catalog date="2026-11-13 21:14"><shop><name>bono</name>
+<?xml version="1.0" encoding="utf-8"?><yml_catalog date="2026-11-14 08:53"><shop><name>bono</name>
 <company />
 <url>https://bonocase.com.ua</url>
 <currencies><currency id="UAH" rate="1.00" /><currency id="USD" rate="28.000000" /></currencies><categories><category id="924818">Захисне скло</category><category id="924819" parentId="924818">Захисне скло для телефонів</category><category id="924821" parentId="924818">Захисне скло для планшетів</category><category id="924822" parentId="924818">Захисне скло для смарт-годинників</category><category id="932882">Гідрогелева плівка</category><category id="932883">Чохли</category><category id="932884">Повербанк</category><category id="932885">Зарядні пристрої</category><category id="939405" parentId="932883">Чохли для телефонів</category><category id="939407" parentId="932883">Чохли для навушників</category><category id="939408" parentId="932883">Чохли та сумки для ноутбуків</category><category id="939409" parentId="924819">Захисне скло для iPhone</category><category id="939618">Догляд за екраном</category><category id="947459" parentId="947522">Гідрогелева плівка для iPhone</category><category id="947522" parentId="932882">Гідрогелева плівка на телефон</category><category id="949492" parentId="932885">Мережеві зарядні пристрої</category><category id="950822" parentId="924821">Захисне скло для Apple iPad</category><category id="950823" parentId="924822">Захисне скло для Apple Watch</category><category id="961647" parentId="939405">Чохли на iPhone</category><category id="961648" parentId="939406">Чохли для iPad</category><category id="961649" parentId="939408">Чохли для MacBook</category><category id="961663">Кабелі та адаптери</category><category id="961664" parentId="961663">Кабелі</category><category id="961665" parentId="961663">USB-хаб</category><category id="961666">Тримачі та підставки</category><category id="961668" parentId="961666">Підставка для ноутбука</category></categories><offers><offer id="10562062" available="true"><name>Мережевий зарядний пристрій  Resolute Power ARP- 544 100W GaN 2m Black (ARM) ArmorStandart 73177</name><quantity_in_stock>5</quantity_in_stock>
@@ -889,7 +889,532 @@ USB-A
 <picture>https://bonocase.com.ua/Media/shop-28442/_imports/Media/shop-28442/_imports/img/products/25965/4/original.jpg</picture>
 <picture>https://bonocase.com.ua/Media/shop-28442/_imports/Media/shop-28442/_imports/img/products/25965/5/original.jpg</picture>
 <vendor>ArmorStandart</vendor>
-<price>599</price><param name="Список сумісних пристроїв товару">Apple iPhone 14 Pro</param><param name="Форм-фактор">Повноекранне 3D</param><param name="Наявність рамки">З рамкою</param><param name="Модель">14 Pro</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Клейовий шар">По всій поверхні</param><param name="Країна-виробник товару">Китай</param><param name="Артикул">61972</param></offer><offer id="14385777" available="false"><name>Захисне скло  Pro для Apple iPhone 17e/16e/14/13/13 Pro ArmorStandart 59722</name><quantity_in_stock>5</quantity_in_stock>
+<price>599</price><param name="Список сумісних пристроїв товару">Apple iPhone 14 Pro</param><param name="Форм-фактор">Повноекранне 3D</param><param name="Наявність рамки">З рамкою</param><param name="Модель">14 Pro</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Клейовий шар">По всій поверхні</param><param name="Країна-виробник товару">Китай</param><param name="Артикул">61972</param></offer><offer id="14385710" available="true"><name>Захисне скло  Infinity Black Icon 2.75D для Apple iPhone 14 / 13 / 13 Pro ArmorStandart 73951</name><quantity_in_stock>5</quantity_in_stock>
+<description><![CDATA[<p><strong>Захисне скло ArmorStandart Infinity Black Icon 2.75D</strong>- це інноваційне рішення, яке забезпечує повне повторення дисплея без рамок, пропонуючи при цьому найвищий рівень захисту для вашого пристрою. Це скло не лише захищає екран від подряпин, ударів та забруднень, але й зберігає елегантний вигляд вашого пристрою.</p>
+<p><strong>Високоякісні матеріали нового покоління</strong></p>
+<ul>
+<li><strong>Прозоре скло 2.75D з використанням Alumina Glass<br></strong>Це скло має товщину всього 0,4 мм, що забезпечує максимальну прозорість та чудовий візуальний вигляд, не додаючи об'єму вашому пристрою.</li>
+<li><strong>Преміальний клей Premium Crown<br></strong>Застосований Antistatic клей забезпечує міцну адгезію до екрана вашого смартфона, забезпечуючи надійний захист. Antistatic властивість, завдяки цьому не притягує пил під час встановлення скла. Це дозволяє легко встановити скло без бульбашок повітря.</li>
+<li><strong>Олеофобне покриття з використанням японської олії<br></strong>Захисне скло має олеофобне покриття AF преміумкласу, що запобігає відбиткам пальців та забрудненню.</li>
+<li><strong>Твердість 9H та висока міцність<br></strong>Скло пройшло 4 години гартування з використанням високоякісних матеріалів, що забезпечують йому твердість 9H. Воно може витримати падіння залізної кульки вагою 64 г з висоти не менше 70 см, а також натискання краю вагою близько 20 кг.</li>
+</ul>
+<p><strong>Повнорозмірне скло та сумісність з чохлами</strong></p>
+<p>Захисне скло ArmorStandart Infinity Black Icon 2.75D не просто забезпечує високий рівень захисту вашого смартфона, але також пропонує повне повторення дисплея, створюючи бездоганну інтеграцію та забезпечуючи вам неперевершений вигляд і відчуття.</p>
+<ul>
+<li><strong>Повнорозмірне скло та сумісність з чохлами<br></strong>Infinity Black Icon 2.75D - це повне покриття дисплея без рамок, що додає витонченості та сучасності вашому пристрою. Це забезпечує не тільки максимальний захист, але й естетичну красу.</li>
+<li><strong>Сумісність з будь-якими чохлами<br></strong>Це повнорозмірне скло дозволяє вам вільно обирати будь-який чохол чи бампер на ваш смак. Його розміри ідеально підходить під будь-які стандартні або дизайнерські чохли, дозволяючи вам виразити свій стиль без обмежень.</li>
+</ul>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Прозоре скло 2,75D без рамок</li>
+<li>Повно розмірне скло</li>
+<li>Клейова основа Premium Crown</li>
+<li>Олеофобне покриття нового покоління</li>
+<li>Твердість 9H</li>
+<li>Сумісність з будь-якими чохлами</li>
+</ul>]]></description><currencyId>UAH</currencyId>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32351/1/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32351/2/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32351/3/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32351/4/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32351/5/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32351/6/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32351/7/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32351/8/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32351/9/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32351/10/original.jpg</picture>
+<vendor>ArmorStandart</vendor>
+<price>599</price><param name="Список сумісних пристроїв товару">Apple iPhone 13; Apple iPhone 13 Pro; Apple iPhone 14</param><param name="Модель">13; 13 Pro; 14</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Артикул">73951</param></offer><offer id="14385711" available="true"><name>Захисне скло  Infinity Black Icon 2.75D для Apple iPhone 14 Plus / 13 Pro Max ArmorStandart 73952</name><quantity_in_stock>5</quantity_in_stock>
+<description><![CDATA[<p><strong>Захисне скло ArmorStandart Infinity Black Icon 2.75D</strong>- це інноваційне рішення, яке забезпечує повне повторення дисплея без рамок, пропонуючи при цьому найвищий рівень захисту для вашого пристрою. Це скло не лише захищає екран від подряпин, ударів та забруднень, але й зберігає елегантний вигляд вашого пристрою.</p>
+<p><strong>Високоякісні матеріали нового покоління</strong></p>
+<ul>
+<li><strong>Прозоре скло 2.75D з використанням Alumina Glass<br></strong>Це скло має товщину всього 0,4 мм, що забезпечує максимальну прозорість та чудовий візуальний вигляд, не додаючи об'єму вашому пристрою.</li>
+<li><strong>Преміальний клей Premium Crown<br></strong>Застосований Antistatic клей забезпечує міцну адгезію до екрана вашого смартфона, забезпечуючи надійний захист. Antistatic властивість, завдяки цьому не притягує пил під час встановлення скла. Це дозволяє легко встановити скло без бульбашок повітря.</li>
+<li><strong>Олеофобне покриття з використанням японської олії<br></strong>Захисне скло має олеофобне покриття AF преміумкласу, що запобігає відбиткам пальців та забрудненню.</li>
+<li><strong>Твердість 9H та висока міцність<br></strong>Скло пройшло 4 години гартування з використанням високоякісних матеріалів, що забезпечують йому твердість 9H. Воно може витримати падіння залізної кульки вагою 64 г з висоти не менше 70 см, а також натискання краю вагою близько 20 кг.</li>
+</ul>
+<p><strong>Повнорозмірне скло та сумісність з чохлами</strong></p>
+<p>Захисне скло ArmorStandart Infinity Black Icon 2.75D не просто забезпечує високий рівень захисту вашого смартфона, але також пропонує повне повторення дисплея, створюючи бездоганну інтеграцію та забезпечуючи вам неперевершений вигляд і відчуття.</p>
+<ul>
+<li><strong>Повнорозмірне скло та сумісність з чохлами<br></strong>Infinity Black Icon 2.75D - це повне покриття дисплея без рамок, що додає витонченості та сучасності вашому пристрою. Це забезпечує не тільки максимальний захист, але й естетичну красу.</li>
+<li><strong>Сумісність з будь-якими чохлами<br></strong>Це повнорозмірне скло дозволяє вам вільно обирати будь-який чохол чи бампер на ваш смак. Його розміри ідеально підходить під будь-які стандартні або дизайнерські чохли, дозволяючи вам виразити свій стиль без обмежень.</li>
+</ul>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Прозоре скло 2,75D без рамок</li>
+<li>Повно розмірне скло</li>
+<li>Клейова основа Premium Crown</li>
+<li>Олеофобне покриття нового покоління</li>
+<li>Твердість 9H</li>
+<li>Сумісність з будь-якими чохлами</li>
+</ul>]]></description><currencyId>UAH</currencyId>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32352/1/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32352/2/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32352/3/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32352/4/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32352/5/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32352/6/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32352/7/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32352/8/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32352/9/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32352/10/original.jpg</picture>
+<vendor>ArmorStandart</vendor>
+<price>599</price><param name="Список сумісних пристроїв товару">Apple iPhone 13 Pro Max; Apple iPhone 14 Plus</param><param name="Модель">13 Pro Max; 14 Plus</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Артикул">73952</param></offer><offer id="14385712" available="true"><name>Захисне скло  Infinity Black Icon 2.75D для Apple iPhone 14 Pro ArmorStandart 73953</name><quantity_in_stock>5</quantity_in_stock>
+<description><![CDATA[<p><strong>Захисне скло ArmorStandart Infinity Black Icon 2.75D</strong>- це інноваційне рішення, яке забезпечує повне повторення дисплея без рамок, пропонуючи при цьому найвищий рівень захисту для вашого пристрою. Це скло не лише захищає екран від подряпин, ударів та забруднень, але й зберігає елегантний вигляд вашого пристрою.</p>
+<p><strong>Високоякісні матеріали нового покоління</strong></p>
+<ul>
+<li><strong>Прозоре скло 2.75D з використанням Alumina Glass<br></strong>Це скло має товщину всього 0,4 мм, що забезпечує максимальну прозорість та чудовий візуальний вигляд, не додаючи об'єму вашому пристрою.</li>
+<li><strong>Преміальний клей Premium Crown<br></strong>Застосований Antistatic клей забезпечує міцну адгезію до екрана вашого смартфона, забезпечуючи надійний захист. Antistatic властивість, завдяки цьому не притягує пил під час встановлення скла. Це дозволяє легко встановити скло без бульбашок повітря.</li>
+<li><strong>Олеофобне покриття з використанням японської олії<br></strong>Захисне скло має олеофобне покриття AF преміумкласу, що запобігає відбиткам пальців та забрудненню.</li>
+<li><strong>Твердість 9H та висока міцність<br></strong>Скло пройшло 4 години гартування з використанням високоякісних матеріалів, що забезпечують йому твердість 9H. Воно може витримати падіння залізної кульки вагою 64 г з висоти не менше 70 см, а також натискання краю вагою близько 20 кг.</li>
+</ul>
+<p><strong>Повнорозмірне скло та сумісність з чохлами</strong></p>
+<p>Захисне скло ArmorStandart Infinity Black Icon 2.75D не просто забезпечує високий рівень захисту вашого смартфона, але також пропонує повне повторення дисплея, створюючи бездоганну інтеграцію та забезпечуючи вам неперевершений вигляд і відчуття.</p>
+<ul>
+<li><strong>Повнорозмірне скло та сумісність з чохлами<br></strong>Infinity Black Icon 2.75D - це повне покриття дисплея без рамок, що додає витонченості та сучасності вашому пристрою. Це забезпечує не тільки максимальний захист, але й естетичну красу.</li>
+<li><strong>Сумісність з будь-якими чохлами<br></strong>Це повнорозмірне скло дозволяє вам вільно обирати будь-який чохол чи бампер на ваш смак. Його розміри ідеально підходить під будь-які стандартні або дизайнерські чохли, дозволяючи вам виразити свій стиль без обмежень.</li>
+</ul>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Прозоре скло 2,75D без рамок</li>
+<li>Повно розмірне скло</li>
+<li>Клейова основа Premium Crown</li>
+<li>Олеофобне покриття нового покоління</li>
+<li>Твердість 9H</li>
+<li>Сумісність з будь-якими чохлами</li>
+</ul>]]></description><currencyId>UAH</currencyId>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32348/1/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32348/2/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32348/3/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32348/4/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32348/5/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32348/6/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32348/7/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32348/8/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32348/9/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32348/10/original.jpg</picture>
+<vendor>ArmorStandart</vendor>
+<price>599</price><param name="Список сумісних пристроїв товару">Apple iPhone 14 Pro</param><param name="Модель">14 Pro</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Артикул">73953</param></offer><offer id="14385713" available="true"><name>Захисне скло  Infinity Black Icon 2.75D для Apple iPhone 14 Pro Max ArmorStandart 73954</name><quantity_in_stock>5</quantity_in_stock>
+<description><![CDATA[<p><strong>Захисне скло ArmorStandart Infinity Black Icon 2.75D</strong>- це інноваційне рішення, яке забезпечує повне повторення дисплея без рамок, пропонуючи при цьому найвищий рівень захисту для вашого пристрою. Це скло не лише захищає екран від подряпин, ударів та забруднень, але й зберігає елегантний вигляд вашого пристрою.</p>
+<p><strong>Високоякісні матеріали нового покоління</strong></p>
+<ul>
+<li><strong>Прозоре скло 2.75D з використанням Alumina Glass<br></strong>Це скло має товщину всього 0,4 мм, що забезпечує максимальну прозорість та чудовий візуальний вигляд, не додаючи об'єму вашому пристрою.</li>
+<li><strong>Преміальний клей Premium Crown<br></strong>Застосований Antistatic клей забезпечує міцну адгезію до екрана вашого смартфона, забезпечуючи надійний захист. Antistatic властивість, завдяки цьому не притягує пил під час встановлення скла. Це дозволяє легко встановити скло без бульбашок повітря.</li>
+<li><strong>Олеофобне покриття з використанням японської олії<br></strong>Захисне скло має олеофобне покриття AF преміумкласу, що запобігає відбиткам пальців та забрудненню.</li>
+<li><strong>Твердість 9H та висока міцність<br></strong>Скло пройшло 4 години гартування з використанням високоякісних матеріалів, що забезпечують йому твердість 9H. Воно може витримати падіння залізної кульки вагою 64 г з висоти не менше 70 см, а також натискання краю вагою близько 20 кг.</li>
+</ul>
+<p><strong>Повнорозмірне скло та сумісність з чохлами</strong></p>
+<p>Захисне скло ArmorStandart Infinity Black Icon 2.75D не просто забезпечує високий рівень захисту вашого смартфона, але також пропонує повне повторення дисплея, створюючи бездоганну інтеграцію та забезпечуючи вам неперевершений вигляд і відчуття.</p>
+<ul>
+<li><strong>Повнорозмірне скло та сумісність з чохлами<br></strong>Infinity Black Icon 2.75D - це повне покриття дисплея без рамок, що додає витонченості та сучасності вашому пристрою. Це забезпечує не тільки максимальний захист, але й естетичну красу.</li>
+<li><strong>Сумісність з будь-якими чохлами<br></strong>Це повнорозмірне скло дозволяє вам вільно обирати будь-який чохол чи бампер на ваш смак. Його розміри ідеально підходить під будь-які стандартні або дизайнерські чохли, дозволяючи вам виразити свій стиль без обмежень.</li>
+</ul>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Прозоре скло 2,75D без рамок</li>
+<li>Повно розмірне скло</li>
+<li>Клейова основа Premium Crown</li>
+<li>Олеофобне покриття нового покоління</li>
+<li>Твердість 9H</li>
+<li>Сумісність з будь-якими чохлами</li>
+</ul>]]></description><currencyId>UAH</currencyId>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32354/1/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32354/2/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32354/3/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32354/4/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32354/5/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32354/6/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32354/7/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32354/8/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32354/9/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32354/10/original.jpg</picture>
+<vendor>ArmorStandart</vendor>
+<price>599</price><param name="Список сумісних пристроїв товару">Apple iPhone 14 Pro Max</param><param name="Модель">14 Pro Max</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Артикул">73954</param></offer><offer id="14385714" available="true"><name>Захисне скло  Infinity Black Icon 2.75D для Apple iPhone 15 ArmorStandart 73955</name><quantity_in_stock>5</quantity_in_stock>
+<description><![CDATA[<p><strong>Захисне скло ArmorStandart Infinity Black Icon 2.75D</strong>- це інноваційне рішення, яке забезпечує повне повторення дисплея без рамок, пропонуючи при цьому найвищий рівень захисту для вашого пристрою. Це скло не лише захищає екран від подряпин, ударів та забруднень, але й зберігає елегантний вигляд вашого пристрою.</p>
+<p><strong>Високоякісні матеріали нового покоління</strong></p>
+<ul>
+<li><strong>Прозоре скло 2.75D з використанням Alumina Glass<br></strong>Це скло має товщину всього 0,4 мм, що забезпечує максимальну прозорість та чудовий візуальний вигляд, не додаючи об'єму вашому пристрою.</li>
+<li><strong>Преміальний клей Premium Crown<br></strong>Застосований Antistatic клей забезпечує міцну адгезію до екрана вашого смартфона, забезпечуючи надійний захист. Antistatic властивість, завдяки цьому не притягує пил під час встановлення скла. Це дозволяє легко встановити скло без бульбашок повітря.</li>
+<li><strong>Олеофобне покриття з використанням японської олії<br></strong>Захисне скло має олеофобне покриття AF преміумкласу, що запобігає відбиткам пальців та забрудненню.</li>
+<li><strong>Твердість 9H та висока міцність<br></strong>Скло пройшло 4 години гартування з використанням високоякісних матеріалів, що забезпечують йому твердість 9H. Воно може витримати падіння залізної кульки вагою 64 г з висоти не менше 70 см, а також натискання краю вагою близько 20 кг.</li>
+</ul>
+<p><strong>Повнорозмірне скло та сумісність з чохлами</strong></p>
+<p>Захисне скло ArmorStandart Infinity Black Icon 2.75D не просто забезпечує високий рівень захисту вашого смартфона, але також пропонує повне повторення дисплея, створюючи бездоганну інтеграцію та забезпечуючи вам неперевершений вигляд і відчуття.</p>
+<ul>
+<li><strong>Повнорозмірне скло та сумісність з чохлами<br></strong>Infinity Black Icon 2.75D - це повне покриття дисплея без рамок, що додає витонченості та сучасності вашому пристрою. Це забезпечує не тільки максимальний захист, але й естетичну красу.</li>
+<li><strong>Сумісність з будь-якими чохлами<br></strong>Це повнорозмірне скло дозволяє вам вільно обирати будь-який чохол чи бампер на ваш смак. Його розміри ідеально підходить під будь-які стандартні або дизайнерські чохли, дозволяючи вам виразити свій стиль без обмежень.</li>
+</ul>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Прозоре скло 2,75D без рамок</li>
+<li>Повно розмірне скло</li>
+<li>Клейова основа Premium Crown</li>
+<li>Олеофобне покриття нового покоління</li>
+<li>Твердість 9H</li>
+<li>Сумісність з будь-якими чохлами</li>
+</ul>]]></description><currencyId>UAH</currencyId>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32353/1/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32353/2/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32353/3/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32353/4/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32353/5/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32353/6/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32353/7/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32353/8/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32353/9/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32353/10/original.jpg</picture>
+<vendor>ArmorStandart</vendor>
+<price>699</price><param name="Список сумісних пристроїв товару">Apple iPhone 15</param><param name="Модель">15</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Артикул">73955</param></offer><offer id="14385715" available="true"><name>Захисне скло  Infinity Black Icon 2.75D для Apple iPhone 15 Pro ArmorStandart 73956</name><quantity_in_stock>5</quantity_in_stock>
+<description><![CDATA[<p><strong>Захисне скло ArmorStandart Infinity Black Icon 2.75D</strong>- це інноваційне рішення, яке забезпечує повне повторення дисплея без рамок, пропонуючи при цьому найвищий рівень захисту для вашого пристрою. Це скло не лише захищає екран від подряпин, ударів та забруднень, але й зберігає елегантний вигляд вашого пристрою.</p>
+<p><strong>Високоякісні матеріали нового покоління</strong></p>
+<ul>
+<li><strong>Прозоре скло 2.75D з використанням Alumina Glass<br></strong>Це скло має товщину всього 0,4 мм, що забезпечує максимальну прозорість та чудовий візуальний вигляд, не додаючи об'єму вашому пристрою.</li>
+<li><strong>Преміальний клей Premium Crown<br></strong>Застосований Antistatic клей забезпечує міцну адгезію до екрана вашого смартфона, забезпечуючи надійний захист. Antistatic властивість, завдяки цьому не притягує пил під час встановлення скла. Це дозволяє легко встановити скло без бульбашок повітря.</li>
+<li><strong>Олеофобне покриття з використанням японської олії<br></strong>Захисне скло має олеофобне покриття AF преміумкласу, що запобігає відбиткам пальців та забрудненню.</li>
+<li><strong>Твердість 9H та висока міцність<br></strong>Скло пройшло 4 години гартування з використанням високоякісних матеріалів, що забезпечують йому твердість 9H. Воно може витримати падіння залізної кульки вагою 64 г з висоти не менше 70 см, а також натискання краю вагою близько 20 кг.</li>
+</ul>
+<p><strong>Повнорозмірне скло та сумісність з чохлами</strong></p>
+<p>Захисне скло ArmorStandart Infinity Black Icon 2.75D не просто забезпечує високий рівень захисту вашого смартфона, але також пропонує повне повторення дисплея, створюючи бездоганну інтеграцію та забезпечуючи вам неперевершений вигляд і відчуття.</p>
+<ul>
+<li><strong>Повнорозмірне скло та сумісність з чохлами<br></strong>Infinity Black Icon 2.75D - це повне покриття дисплея без рамок, що додає витонченості та сучасності вашому пристрою. Це забезпечує не тільки максимальний захист, але й естетичну красу.</li>
+<li><strong>Сумісність з будь-якими чохлами<br></strong>Це повнорозмірне скло дозволяє вам вільно обирати будь-який чохол чи бампер на ваш смак. Його розміри ідеально підходить під будь-які стандартні або дизайнерські чохли, дозволяючи вам виразити свій стиль без обмежень.</li>
+</ul>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Прозоре скло 2,75D без рамок</li>
+<li>Повно розмірне скло</li>
+<li>Клейова основа Premium Crown</li>
+<li>Олеофобне покриття нового покоління</li>
+<li>Твердість 9H</li>
+<li>Сумісність з будь-якими чохлами</li>
+</ul>]]></description><currencyId>UAH</currencyId>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32349/1/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32349/2/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32349/3/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32349/4/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32349/5/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32349/6/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32349/7/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32349/8/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32349/9/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32349/10/original.jpg</picture>
+<vendor>ArmorStandart</vendor>
+<price>699</price><param name="Список сумісних пристроїв товару">Apple iPhone 15 Pro</param><param name="Модель">15 Pro</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Артикул">73956</param></offer><offer id="14385716" available="true"><name>Захисне скло  Infinity Black Icon 2.75D для Apple iPhone 15 Pro Max ArmorStandart 73957</name><quantity_in_stock>5</quantity_in_stock>
+<description><![CDATA[<p><strong>Захисне скло ArmorStandart Infinity Black Icon 2.75D</strong>- це інноваційне рішення, яке забезпечує повне повторення дисплея без рамок, пропонуючи при цьому найвищий рівень захисту для вашого пристрою. Це скло не лише захищає екран від подряпин, ударів та забруднень, але й зберігає елегантний вигляд вашого пристрою.</p>
+<p><strong>Високоякісні матеріали нового покоління</strong></p>
+<ul>
+<li><strong>Прозоре скло 2.75D з використанням Alumina Glass<br></strong>Це скло має товщину всього 0,4 мм, що забезпечує максимальну прозорість та чудовий візуальний вигляд, не додаючи об'єму вашому пристрою.</li>
+<li><strong>Преміальний клей Premium Crown<br></strong>Застосований Antistatic клей забезпечує міцну адгезію до екрана вашого смартфона, забезпечуючи надійний захист. Antistatic властивість, завдяки цьому не притягує пил під час встановлення скла. Це дозволяє легко встановити скло без бульбашок повітря.</li>
+<li><strong>Олеофобне покриття з використанням японської олії<br></strong>Захисне скло має олеофобне покриття AF преміумкласу, що запобігає відбиткам пальців та забрудненню.</li>
+<li><strong>Твердість 9H та висока міцність<br></strong>Скло пройшло 4 години гартування з використанням високоякісних матеріалів, що забезпечують йому твердість 9H. Воно може витримати падіння залізної кульки вагою 64 г з висоти не менше 70 см, а також натискання краю вагою близько 20 кг.</li>
+</ul>
+<p><strong>Повнорозмірне скло та сумісність з чохлами</strong></p>
+<p>Захисне скло ArmorStandart Infinity Black Icon 2.75D не просто забезпечує високий рівень захисту вашого смартфона, але також пропонує повне повторення дисплея, створюючи бездоганну інтеграцію та забезпечуючи вам неперевершений вигляд і відчуття.</p>
+<ul>
+<li><strong>Повнорозмірне скло та сумісність з чохлами<br></strong>Infinity Black Icon 2.75D - це повне покриття дисплея без рамок, що додає витонченості та сучасності вашому пристрою. Це забезпечує не тільки максимальний захист, але й естетичну красу.</li>
+<li><strong>Сумісність з будь-якими чохлами<br></strong>Це повнорозмірне скло дозволяє вам вільно обирати будь-який чохол чи бампер на ваш смак. Його розміри ідеально підходить під будь-які стандартні або дизайнерські чохли, дозволяючи вам виразити свій стиль без обмежень.</li>
+</ul>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Прозоре скло 2,75D без рамок</li>
+<li>Повно розмірне скло</li>
+<li>Клейова основа Premium Crown</li>
+<li>Олеофобне покриття нового покоління</li>
+<li>Твердість 9H</li>
+<li>Сумісність з будь-якими чохлами</li>
+</ul>]]></description><currencyId>UAH</currencyId>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32350/1/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32350/2/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32350/3/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32350/4/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32350/5/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32350/6/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32350/7/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32350/8/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32350/9/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/32350/10/original.jpg</picture>
+<vendor>ArmorStandart</vendor>
+<price>699</price><param name="Список сумісних пристроїв товару">Apple iPhone 15 Pro Max</param><param name="Модель">15 Pro Max</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Артикул">73957</param></offer><offer id="14385717" available="true"><name>Захисне скло  Infinity Black Icon 2.75D для Apple iPhone 16 ArmorStandart 80299</name><quantity_in_stock>5</quantity_in_stock>
+<description><![CDATA[<p><strong>Захисне скло ArmorStandart Infinity Black Icon 2.75D</strong>- це інноваційне рішення, яке забезпечує повне повторення дисплея без рамок, пропонуючи при цьому найвищий рівень захисту для вашого пристрою. Це скло не лише захищає екран від подряпин, ударів та забруднень, але й зберігає елегантний вигляд вашого пристрою.</p>
+<p><strong>Високоякісні матеріали нового покоління</strong></p>
+<ul>
+<li><strong>Прозоре скло 2.75D з використанням Alumina Glass<br></strong>Це скло має товщину всього 0,4 мм, що забезпечує максимальну прозорість та чудовий візуальний вигляд, не додаючи об'єму вашому пристрою.</li>
+<li><strong>Преміальний клей Premium Crown<br></strong>Застосований Antistatic клей забезпечує міцну адгезію до екрана вашого смартфона, забезпечуючи надійний захист. Antistatic властивість, завдяки цьому не притягує пил під час встановлення скла. Це дозволяє легко встановити скло без бульбашок повітря.</li>
+<li><strong>Олеофобне покриття з використанням японської олії<br></strong>Захисне скло має олеофобне покриття AF преміумкласу, що запобігає відбиткам пальців та забрудненню.</li>
+<li><strong>Твердість 9H та висока міцність<br></strong>Скло пройшло 4 години гартування з використанням високоякісних матеріалів, що забезпечують йому твердість 9H. Воно може витримати падіння залізної кульки вагою 64 г з висоти не менше 70 см, а також натискання краю вагою близько 20 кг.</li>
+</ul>
+<p><strong>Повнорозмірне скло та сумісність з чохлами</strong></p>
+<p>Захисне скло ArmorStandart Infinity Black Icon 2.75D не просто забезпечує високий рівень захисту вашого смартфона, але також пропонує повне повторення дисплея, створюючи бездоганну інтеграцію та забезпечуючи вам неперевершений вигляд і відчуття.</p>
+<ul>
+<li><strong>Повнорозмірне скло та сумісність з чохлами<br></strong>Infinity Black Icon 2.75D - це повне покриття дисплея без рамок, що додає витонченості та сучасності вашому пристрою. Це забезпечує не тільки максимальний захист, але й естетичну красу.</li>
+<li><strong>Сумісність з будь-якими чохлами<br></strong>Це повнорозмірне скло дозволяє вам вільно обирати будь-який чохол чи бампер на ваш смак. Його розміри ідеально підходить під будь-які стандартні або дизайнерські чохли, дозволяючи вам виразити свій стиль без обмежень.</li>
+</ul>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Прозоре скло 2,75D без рамок</li>
+<li>Повно розмірне скло</li>
+<li>Клейова основа Premium Crown</li>
+<li>Олеофобне покриття нового покоління</li>
+<li>Твердість 9H</li>
+<li>Сумісність з будь-якими чохлами</li>
+</ul>]]></description><currencyId>UAH</currencyId>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35658/1/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35658/2/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35658/3/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35658/4/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35658/5/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35658/6/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35658/7/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35658/8/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35658/9/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35658/10/original.jpg</picture>
+<vendor>ArmorStandart</vendor>
+<price>699</price><param name="Список сумісних пристроїв товару">Apple iPhone 16</param><param name="Модель">16</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Артикул">80299</param></offer><offer id="14385718" available="true"><name>Захисне скло  Infinity Black Icon 2.75D для Apple iPhone 16 Plus ArmorStandart 80300</name><quantity_in_stock>5</quantity_in_stock>
+<description><![CDATA[<p><strong>Захисне скло ArmorStandart Infinity Black Icon 2.75D</strong>- це інноваційне рішення, яке забезпечує повне повторення дисплея без рамок, пропонуючи при цьому найвищий рівень захисту для вашого пристрою. Це скло не лише захищає екран від подряпин, ударів та забруднень, але й зберігає елегантний вигляд вашого пристрою.</p>
+<p><strong>Високоякісні матеріали нового покоління</strong></p>
+<ul>
+<li><strong>Прозоре скло 2.75D з використанням Alumina Glass<br></strong>Це скло має товщину всього 0,4 мм, що забезпечує максимальну прозорість та чудовий візуальний вигляд, не додаючи об'єму вашому пристрою.</li>
+<li><strong>Преміальний клей Premium Crown<br></strong>Застосований Antistatic клей забезпечує міцну адгезію до екрана вашого смартфона, забезпечуючи надійний захист. Antistatic властивість, завдяки цьому не притягує пил під час встановлення скла. Це дозволяє легко встановити скло без бульбашок повітря.</li>
+<li><strong>Олеофобне покриття з використанням японської олії<br></strong>Захисне скло має олеофобне покриття AF преміумкласу, що запобігає відбиткам пальців та забрудненню.</li>
+<li><strong>Твердість 9H та висока міцність<br></strong>Скло пройшло 4 години гартування з використанням високоякісних матеріалів, що забезпечують йому твердість 9H. Воно може витримати падіння залізної кульки вагою 64 г з висоти не менше 70 см, а також натискання краю вагою близько 20 кг.</li>
+</ul>
+<p><strong>Повнорозмірне скло та сумісність з чохлами</strong></p>
+<p>Захисне скло ArmorStandart Infinity Black Icon 2.75D не просто забезпечує високий рівень захисту вашого смартфона, але також пропонує повне повторення дисплея, створюючи бездоганну інтеграцію та забезпечуючи вам неперевершений вигляд і відчуття.</p>
+<ul>
+<li><strong>Повнорозмірне скло та сумісність з чохлами<br></strong>Infinity Black Icon 2.75D - це повне покриття дисплея без рамок, що додає витонченості та сучасності вашому пристрою. Це забезпечує не тільки максимальний захист, але й естетичну красу.</li>
+<li><strong>Сумісність з будь-якими чохлами<br></strong>Це повнорозмірне скло дозволяє вам вільно обирати будь-який чохол чи бампер на ваш смак. Його розміри ідеально підходить під будь-які стандартні або дизайнерські чохли, дозволяючи вам виразити свій стиль без обмежень.</li>
+</ul>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Прозоре скло 2,75D без рамок</li>
+<li>Повно розмірне скло</li>
+<li>Клейова основа Premium Crown</li>
+<li>Олеофобне покриття нового покоління</li>
+<li>Твердість 9H</li>
+<li>Сумісність з будь-якими чохлами</li>
+</ul>]]></description><currencyId>UAH</currencyId>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35657/1/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35657/2/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35657/3/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35657/4/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35657/5/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35657/6/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35657/7/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35657/8/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35657/9/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35657/10/original.jpg</picture>
+<vendor>ArmorStandart</vendor>
+<price>699</price><param name="Список сумісних пристроїв товару">Apple iPhone 16 Plus</param><param name="Модель">16 Plus</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Артикул">80300</param></offer><offer id="14385719" available="true"><name>Захисне скло  Infinity Black Icon 2.75D для Apple iPhone 16 Pro Max ArmorStandart 80302</name><quantity_in_stock>5</quantity_in_stock>
+<description><![CDATA[<p><strong>Захисне скло ArmorStandart Infinity Black Icon 2.75D</strong>- це інноваційне рішення, яке забезпечує повне повторення дисплея без рамок, пропонуючи при цьому найвищий рівень захисту для вашого пристрою. Це скло не лише захищає екран від подряпин, ударів та забруднень, але й зберігає елегантний вигляд вашого пристрою.</p>
+<p><strong>Високоякісні матеріали нового покоління</strong></p>
+<ul>
+<li><strong>Прозоре скло 2.75D з використанням Alumina Glass<br></strong>Це скло має товщину всього 0,4 мм, що забезпечує максимальну прозорість та чудовий візуальний вигляд, не додаючи об'єму вашому пристрою.</li>
+<li><strong>Преміальний клей Premium Crown<br></strong>Застосований Antistatic клей забезпечує міцну адгезію до екрана вашого смартфона, забезпечуючи надійний захист. Antistatic властивість, завдяки цьому не притягує пил під час встановлення скла. Це дозволяє легко встановити скло без бульбашок повітря.</li>
+<li><strong>Олеофобне покриття з використанням японської олії<br></strong>Захисне скло має олеофобне покриття AF преміумкласу, що запобігає відбиткам пальців та забрудненню.</li>
+<li><strong>Твердість 9H та висока міцність<br></strong>Скло пройшло 4 години гартування з використанням високоякісних матеріалів, що забезпечують йому твердість 9H. Воно може витримати падіння залізної кульки вагою 64 г з висоти не менше 70 см, а також натискання краю вагою близько 20 кг.</li>
+</ul>
+<p><strong>Повнорозмірне скло та сумісність з чохлами</strong></p>
+<p>Захисне скло ArmorStandart Infinity Black Icon 2.75D не просто забезпечує високий рівень захисту вашого смартфона, але також пропонує повне повторення дисплея, створюючи бездоганну інтеграцію та забезпечуючи вам неперевершений вигляд і відчуття.</p>
+<ul>
+<li><strong>Повнорозмірне скло та сумісність з чохлами<br></strong>Infinity Black Icon 2.75D - це повне покриття дисплея без рамок, що додає витонченості та сучасності вашому пристрою. Це забезпечує не тільки максимальний захист, але й естетичну красу.</li>
+<li><strong>Сумісність з будь-якими чохлами<br></strong>Це повнорозмірне скло дозволяє вам вільно обирати будь-який чохол чи бампер на ваш смак. Його розміри ідеально підходить під будь-які стандартні або дизайнерські чохли, дозволяючи вам виразити свій стиль без обмежень.</li>
+</ul>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Прозоре скло 2,75D без рамок</li>
+<li>Повно розмірне скло</li>
+<li>Клейова основа Premium Crown</li>
+<li>Олеофобне покриття нового покоління</li>
+<li>Твердість 9H</li>
+<li>Сумісність з будь-якими чохлами</li>
+</ul>]]></description><currencyId>UAH</currencyId>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35659/1/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35659/2/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35659/3/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35659/4/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35659/5/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35659/6/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35659/7/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35659/8/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35659/9/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/35659/10/original.jpg</picture>
+<vendor>ArmorStandart</vendor>
+<price>699</price><param name="Список сумісних пристроїв товару">Apple iPhone 16 Pro Max</param><param name="Модель">16 Pro Max</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Артикул">80302</param></offer><offer id="14385720" available="true"><name>Захисне скло  Infinity Black Icon 2.75D для Apple iPhone 17 / 17 Pro / 16 Pro ArmorStandart 86416</name><quantity_in_stock>5</quantity_in_stock>
+<description><![CDATA[<p><strong>Захисне скло ArmorStandart Infinity Black Icon 2.75D</strong>- це інноваційне рішення, яке забезпечує повне повторення дисплея без рамок, пропонуючи при цьому найвищий рівень захисту для вашого пристрою. Це скло не лише захищає екран від подряпин, ударів та забруднень, але й зберігає елегантний вигляд вашого пристрою.</p>
+<p><strong>Високоякісні матеріали нового покоління</strong></p>
+<ul>
+<li><strong>Прозоре скло 2.75D з використанням Alumina Glass<br></strong>Це скло має товщину всього 0,4 мм, що забезпечує максимальну прозорість та чудовий візуальний вигляд, не додаючи об'єму вашому пристрою.</li>
+<li><strong>Преміальний клей Premium Crown<br></strong>Застосований Antistatic клей забезпечує міцну адгезію до екрана вашого смартфона, забезпечуючи надійний захист. Antistatic властивість, завдяки цьому не притягує пил під час встановлення скла. Це дозволяє легко встановити скло без бульбашок повітря.</li>
+<li><strong>Олеофобне покриття з використанням японської олії<br></strong>Захисне скло має олеофобне покриття AF преміумкласу, що запобігає відбиткам пальців та забрудненню.</li>
+<li><strong>Твердість 9H та висока міцність<br></strong>Скло пройшло 4 години гартування з використанням високоякісних матеріалів, що забезпечують йому твердість 9H. Воно може витримати падіння залізної кульки вагою 64 г з висоти не менше 70 см, а також натискання краю вагою близько 20 кг.</li>
+</ul>
+<p><strong>Повнорозмірне скло та сумісність з чохлами</strong></p>
+<p>Захисне скло ArmorStandart Infinity Black Icon 2.75D не просто забезпечує високий рівень захисту вашого смартфона, але також пропонує повне повторення дисплея, створюючи бездоганну інтеграцію та забезпечуючи вам неперевершений вигляд і відчуття.</p>
+<ul>
+<li><strong>Повнорозмірне скло та сумісність з чохлами<br></strong>Infinity Black Icon 2.75D - це повне покриття дисплея без рамок, що додає витонченості та сучасності вашому пристрою. Це забезпечує не тільки максимальний захист, але й естетичну красу.</li>
+<li><strong>Сумісність з будь-якими чохлами<br></strong>Це повнорозмірне скло дозволяє вам вільно обирати будь-який чохол чи бампер на ваш смак. Його розміри ідеально підходить під будь-які стандартні або дизайнерські чохли, дозволяючи вам виразити свій стиль без обмежень.</li>
+</ul>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Прозоре скло 2,75D без рамок</li>
+<li>Повно розмірне скло</li>
+<li>Клейова основа Premium Crown</li>
+<li>Олеофобне покриття нового покоління</li>
+<li>Твердість 9H</li>
+<li>Сумісність з будь-якими чохлами</li>
+</ul>]]></description><currencyId>UAH</currencyId>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38486/1/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38486/2/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38486/3/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38486/4/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38486/5/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38486/6/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38486/7/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38486/8/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38486/9/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38486/10/original.jpg</picture>
+<vendor>ArmorStandart</vendor>
+<price>699</price><param name="Список сумісних пристроїв товару">Apple iPhone 16 Pro; Apple iPhone 17; Apple iPhone 17 Pro</param><param name="Модель">16 Pro; 17; 17 Pro</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Артикул">86416</param></offer><offer id="14385721" available="true"><name>Захисне скло  Infinity Black Icon 2.75D для Apple iPhone 17 Air ArmorStandart 86413</name><quantity_in_stock>5</quantity_in_stock>
+<description><![CDATA[<p><strong>Захисне скло ArmorStandart Infinity Black Icon 2.75D</strong>- це інноваційне рішення, яке забезпечує повне повторення дисплея без рамок, пропонуючи при цьому найвищий рівень захисту для вашого пристрою. Це скло не лише захищає екран від подряпин, ударів та забруднень, але й зберігає елегантний вигляд вашого пристрою.</p>
+<p><strong>Високоякісні матеріали нового покоління</strong></p>
+<ul>
+<li><strong>Прозоре скло 2.75D з використанням Alumina Glass<br></strong>Це скло має товщину всього 0,4 мм, що забезпечує максимальну прозорість та чудовий візуальний вигляд, не додаючи об'єму вашому пристрою.</li>
+<li><strong>Преміальний клей Premium Crown<br></strong>Застосований Antistatic клей забезпечує міцну адгезію до екрана вашого смартфона, забезпечуючи надійний захист. Antistatic властивість, завдяки цьому не притягує пил під час встановлення скла. Це дозволяє легко встановити скло без бульбашок повітря.</li>
+<li><strong>Олеофобне покриття з використанням японської олії<br></strong>Захисне скло має олеофобне покриття AF преміумкласу, що запобігає відбиткам пальців та забрудненню.</li>
+<li><strong>Твердість 9H та висока міцність<br></strong>Скло пройшло 4 години гартування з використанням високоякісних матеріалів, що забезпечують йому твердість 9H. Воно може витримати падіння залізної кульки вагою 64 г з висоти не менше 70 см, а також натискання краю вагою близько 20 кг.</li>
+</ul>
+<p><strong>Повнорозмірне скло та сумісність з чохлами</strong></p>
+<p>Захисне скло ArmorStandart Infinity Black Icon 2.75D не просто забезпечує високий рівень захисту вашого смартфона, але також пропонує повне повторення дисплея, створюючи бездоганну інтеграцію та забезпечуючи вам неперевершений вигляд і відчуття.</p>
+<ul>
+<li><strong>Повнорозмірне скло та сумісність з чохлами<br></strong>Infinity Black Icon 2.75D - це повне покриття дисплея без рамок, що додає витонченості та сучасності вашому пристрою. Це забезпечує не тільки максимальний захист, але й естетичну красу.</li>
+<li><strong>Сумісність з будь-якими чохлами<br></strong>Це повнорозмірне скло дозволяє вам вільно обирати будь-який чохол чи бампер на ваш смак. Його розміри ідеально підходить під будь-які стандартні або дизайнерські чохли, дозволяючи вам виразити свій стиль без обмежень.</li>
+</ul>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Прозоре скло 2,75D без рамок</li>
+<li>Повно розмірне скло</li>
+<li>Клейова основа Premium Crown</li>
+<li>Олеофобне покриття нового покоління</li>
+<li>Твердість 9H</li>
+<li>Сумісність з будь-якими чохлами</li>
+</ul>]]></description><currencyId>UAH</currencyId>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38485/1/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38485/2/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38485/3/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38485/4/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38485/5/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38485/6/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38485/7/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38485/8/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38485/9/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38485/10/original.jpg</picture>
+<vendor>ArmorStandart</vendor>
+<price>699</price><param name="Список сумісних пристроїв товару">Apple iPhone Air</param><param name="Модель">Air</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Артикул">86413</param></offer><offer id="14385722" available="true"><name>Захисне скло  Infinity Black Icon 2.75D для Apple iPhone 17 Pro Max ArmorStandart 86415</name><quantity_in_stock>5</quantity_in_stock>
+<description><![CDATA[<p><strong>Захисне скло ArmorStandart Infinity Black Icon 2.75D</strong>- це інноваційне рішення, яке забезпечує повне повторення дисплея без рамок, пропонуючи при цьому найвищий рівень захисту для вашого пристрою. Це скло не лише захищає екран від подряпин, ударів та забруднень, але й зберігає елегантний вигляд вашого пристрою.</p>
+<p><strong>Високоякісні матеріали нового покоління</strong></p>
+<ul>
+<li><strong>Прозоре скло 2.75D з використанням Alumina Glass<br></strong>Це скло має товщину всього 0,4 мм, що забезпечує максимальну прозорість та чудовий візуальний вигляд, не додаючи об'єму вашому пристрою.</li>
+<li><strong>Преміальний клей Premium Crown<br></strong>Застосований Antistatic клей забезпечує міцну адгезію до екрана вашого смартфона, забезпечуючи надійний захист. Antistatic властивість, завдяки цьому не притягує пил під час встановлення скла. Це дозволяє легко встановити скло без бульбашок повітря.</li>
+<li><strong>Олеофобне покриття з використанням японської олії<br></strong>Захисне скло має олеофобне покриття AF преміумкласу, що запобігає відбиткам пальців та забрудненню.</li>
+<li><strong>Твердість 9H та висока міцність<br></strong>Скло пройшло 4 години гартування з використанням високоякісних матеріалів, що забезпечують йому твердість 9H. Воно може витримати падіння залізної кульки вагою 64 г з висоти не менше 70 см, а також натискання краю вагою близько 20 кг.</li>
+</ul>
+<p><strong>Повнорозмірне скло та сумісність з чохлами</strong></p>
+<p>Захисне скло ArmorStandart Infinity Black Icon 2.75D не просто забезпечує високий рівень захисту вашого смартфона, але також пропонує повне повторення дисплея, створюючи бездоганну інтеграцію та забезпечуючи вам неперевершений вигляд і відчуття.</p>
+<ul>
+<li><strong>Повнорозмірне скло та сумісність з чохлами<br></strong>Infinity Black Icon 2.75D - це повне покриття дисплея без рамок, що додає витонченості та сучасності вашому пристрою. Це забезпечує не тільки максимальний захист, але й естетичну красу.</li>
+<li><strong>Сумісність з будь-якими чохлами<br></strong>Це повнорозмірне скло дозволяє вам вільно обирати будь-який чохол чи бампер на ваш смак. Його розміри ідеально підходить під будь-які стандартні або дизайнерські чохли, дозволяючи вам виразити свій стиль без обмежень.</li>
+</ul>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Прозоре скло 2,75D без рамок</li>
+<li>Повно розмірне скло</li>
+<li>Клейова основа Premium Crown</li>
+<li>Олеофобне покриття нового покоління</li>
+<li>Твердість 9H</li>
+<li>Сумісність з будь-якими чохлами</li>
+</ul>]]></description><currencyId>UAH</currencyId>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38484/1/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38484/2/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38484/3/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38484/4/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38484/5/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38484/6/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38484/7/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38484/8/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38484/9/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/38484/10/original.jpg</picture>
+<vendor>ArmorStandart</vendor>
+<price>699</price><param name="Список сумісних пристроїв товару">Apple iPhone 17 Pro Max</param><param name="Модель">17 Pro Max</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Артикул">86415</param></offer><offer id="14385723" available="true"><name>Захисне скло  Infinity Black Icon 2.75D для Apple iPhone 18 Pro ArmorStandart 91944</name><quantity_in_stock>5</quantity_in_stock>
+<description><![CDATA[<p><strong>Захисне скло ArmorStandart Infinity Black Icon 2.75D</strong>- це інноваційне рішення, яке забезпечує повне повторення дисплея без рамок, пропонуючи при цьому найвищий рівень захисту для вашого пристрою. Це скло не лише захищає екран від подряпин, ударів та забруднень, але й зберігає елегантний вигляд вашого пристрою.</p>
+<p><strong>Високоякісні матеріали нового покоління</strong></p>
+<ul>
+<li><strong>Прозоре скло 2.75D з використанням Alumina Glass<br></strong>Це скло має товщину всього 0,4 мм, що забезпечує максимальну прозорість та чудовий візуальний вигляд, не додаючи об'єму вашому пристрою.</li>
+<li><strong>Преміальний клей Premium Crown<br></strong>Застосований Antistatic клей забезпечує міцну адгезію до екрана вашого смартфона, забезпечуючи надійний захист. Antistatic властивість, завдяки цьому не притягує пил під час встановлення скла. Це дозволяє легко встановити скло без бульбашок повітря.</li>
+<li><strong>Олеофобне покриття з використанням японської олії<br></strong>Захисне скло має олеофобне покриття AF преміумкласу, що запобігає відбиткам пальців та забрудненню.</li>
+<li><strong>Твердість 9H та висока міцність<br></strong>Скло пройшло 4 години гартування з використанням високоякісних матеріалів, що забезпечують йому твердість 9H. Воно може витримати падіння залізної кульки вагою 64 г з висоти не менше 70 см, а також натискання краю вагою близько 20 кг.</li>
+</ul>
+<p><strong>Повнорозмірне скло та сумісність з чохлами</strong></p>
+<p>Захисне скло ArmorStandart Infinity Black Icon 2.75D не просто забезпечує високий рівень захисту вашого смартфона, але також пропонує повне повторення дисплея, створюючи бездоганну інтеграцію та забезпечуючи вам неперевершений вигляд і відчуття.</p>
+<ul>
+<li><strong>Повнорозмірне скло та сумісність з чохлами<br></strong>Infinity Black Icon 2.75D - це повне покриття дисплея без рамок, що додає витонченості та сучасності вашому пристрою. Це забезпечує не тільки максимальний захист, але й естетичну красу.</li>
+<li><strong>Сумісність з будь-якими чохлами<br></strong>Це повнорозмірне скло дозволяє вам вільно обирати будь-який чохол чи бампер на ваш смак. Його розміри ідеально підходить під будь-які стандартні або дизайнерські чохли, дозволяючи вам виразити свій стиль без обмежень.</li>
+</ul>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Прозоре скло 2,75D без рамок</li>
+<li>Повно розмірне скло</li>
+<li>Клейова основа Premium Crown</li>
+<li>Олеофобне покриття нового покоління</li>
+<li>Твердість 9H</li>
+<li>Сумісність з будь-якими чохлами</li>
+</ul>]]></description><currencyId>UAH</currencyId>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41943/1/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41943/2/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41943/3/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41943/4/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41943/5/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41943/6/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41943/7/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41943/8/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41943/9/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41943/10/original.jpg</picture>
+<vendor>ArmorStandart</vendor>
+<price>799</price><param name="Список сумісних пристроїв товару">Apple iPhone 18 Pro</param><param name="Модель">18 Pro</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Артикул">91944</param></offer><offer id="14385724" available="true"><name>Захисне скло  Infinity Black Icon 2.75D для Apple iPhone 18 Pro Max ArmorStandart 91943</name><quantity_in_stock>5</quantity_in_stock>
+<description><![CDATA[<p><strong>Захисне скло ArmorStandart Infinity Black Icon 2.75D</strong>- це інноваційне рішення, яке забезпечує повне повторення дисплея без рамок, пропонуючи при цьому найвищий рівень захисту для вашого пристрою. Це скло не лише захищає екран від подряпин, ударів та забруднень, але й зберігає елегантний вигляд вашого пристрою.</p>
+<p><strong>Високоякісні матеріали нового покоління</strong></p>
+<ul>
+<li><strong>Прозоре скло 2.75D з використанням Alumina Glass<br></strong>Це скло має товщину всього 0,4 мм, що забезпечує максимальну прозорість та чудовий візуальний вигляд, не додаючи об'єму вашому пристрою.</li>
+<li><strong>Преміальний клей Premium Crown<br></strong>Застосований Antistatic клей забезпечує міцну адгезію до екрана вашого смартфона, забезпечуючи надійний захист. Antistatic властивість, завдяки цьому не притягує пил під час встановлення скла. Це дозволяє легко встановити скло без бульбашок повітря.</li>
+<li><strong>Олеофобне покриття з використанням японської олії<br></strong>Захисне скло має олеофобне покриття AF преміумкласу, що запобігає відбиткам пальців та забрудненню.</li>
+<li><strong>Твердість 9H та висока міцність<br></strong>Скло пройшло 4 години гартування з використанням високоякісних матеріалів, що забезпечують йому твердість 9H. Воно може витримати падіння залізної кульки вагою 64 г з висоти не менше 70 см, а також натискання краю вагою близько 20 кг.</li>
+</ul>
+<p><strong>Повнорозмірне скло та сумісність з чохлами</strong></p>
+<p>Захисне скло ArmorStandart Infinity Black Icon 2.75D не просто забезпечує високий рівень захисту вашого смартфона, але також пропонує повне повторення дисплея, створюючи бездоганну інтеграцію та забезпечуючи вам неперевершений вигляд і відчуття.</p>
+<ul>
+<li><strong>Повнорозмірне скло та сумісність з чохлами<br></strong>Infinity Black Icon 2.75D - це повне покриття дисплея без рамок, що додає витонченості та сучасності вашому пристрою. Це забезпечує не тільки максимальний захист, але й естетичну красу.</li>
+<li><strong>Сумісність з будь-якими чохлами<br></strong>Це повнорозмірне скло дозволяє вам вільно обирати будь-який чохол чи бампер на ваш смак. Його розміри ідеально підходить під будь-які стандартні або дизайнерські чохли, дозволяючи вам виразити свій стиль без обмежень.</li>
+</ul>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Прозоре скло 2,75D без рамок</li>
+<li>Повно розмірне скло</li>
+<li>Клейова основа Premium Crown</li>
+<li>Олеофобне покриття нового покоління</li>
+<li>Твердість 9H</li>
+<li>Сумісність з будь-якими чохлами</li>
+</ul>]]></description><currencyId>UAH</currencyId>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41944/1/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41944/2/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41944/3/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41944/4/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41944/5/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41944/6/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41944/7/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41944/8/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41944/9/original.jpg</picture>
+<picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/41944/10/original.jpg</picture>
+<vendor>ArmorStandart</vendor>
+<price>799</price><param name="Список сумісних пристроїв товару">Apple iPhone 18 Pro Max</param><param name="Модель">18 Pro Max</param><param name="Сумісна серія">iPhone</param><param name="Бренд пристрою">Apple</param><param name="Артикул">91943</param></offer><offer id="14385777" available="false"><name>Захисне скло  Pro для Apple iPhone 17e/16e/14/13/13 Pro ArmorStandart 59722</name><quantity_in_stock>5</quantity_in_stock>
 <description><![CDATA[<p><strong>Захисне скло Armorstandart Pro Series </strong>- це абсолютно новий рівень захисту дисплея смартфона. У виробництві використовується матеріал Japenese Asahi Glass, який проходить загартування впродовж 4 годин. Це забезпечує ідеальну прозорість захисного покриття без спотворень зображення, а також потужний захист від тріщин і подряпин.</p>
 <p>Скло ніяк не впливає на чуйність тачскрина. У ньому міститься спеціальний матеріал, що перешкоджає появі відколів.</p>
 <p><strong>Верхня частина</strong> скла містить покращене олеофобне й гідрофобне покриття. Під час використання скла це забезпечує природні тактильні відчуття - пальці легко ковзають по поверхні. Водночас зображення відбивається з автентичною яскравістю й чіткістю без спотворень.</p>
@@ -6146,7 +6671,7 @@ Data cables/power cables
 <picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/37422/9/original.jpg</picture>
 <picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/37422/10/original.jpg</picture>
 <vendor>ArmorStandart</vendor>
-<price>1349</price><param name="Совместимая модель">Air 15.3"" M4 (2025) A3241, Air 15.3  M5 (2026) A3448, Air 15.3"" M2 (2023) A2941, Air 15.3"" M3 (2024) A3114</param><param name="Список совместимых устройств товара">Apple MacBook Air 15.3"" M2 (2023) A2941; Apple MacBook Air 15.3"" M3 (2024) A3114; Apple MacBook Air 15.3"" M4 (2025) A3241; Apple MacBook Air 15.3  M5 (2026) A3448</param><param name="EAN">2377700794705</param><param name="Совместимый бренд">Apple</param><param name="Совместимая серия">MacBook</param><param name="Артикул">79470</param></offer><offer id="14386708" available="true"><name>Накладка  Unit для MacBook Air 15.3 M5/M4/M3/M2 White ArmorStandart 92907</name><quantity_in_stock>5</quantity_in_stock>
+<price>1349</price><param name="Список совместимых устройств товара">Apple MacBook Air 15.3"" M2 (2023) A2941; Apple MacBook Air 15.3"" M3 (2024) A3114; Apple MacBook Air 15.3"" M4 (2025) A3241; Apple MacBook Air 15.3  M5 (2026) A3448</param><param name="EAN">2377700794705</param><param name="Совместимый бренд">Apple</param><param name="Совместимая серия">MacBook</param><param name="Совместимая модель">Air 15.3"" M2 (2023) A2941, Air 15.3"" M3 (2024) A3114, Air 15.3"" M4 (2025) A3241, Air 15.3  M5 (2026) A3448</param><param name="Артикул">79470</param></offer><offer id="14386708" available="true"><name>Накладка  Unit для MacBook Air 15.3 M5/M4/M3/M2 White ArmorStandart 92907</name><quantity_in_stock>5</quantity_in_stock>
 <description><![CDATA[<p><strong>Unit для MacBook</strong> &amp;ndash; це серія накладок нового покоління, що поєднує у собі міцність полікарбонату (PC) та гнучкість термопластичного поліуретану (TPU). Така комбінація матеріалів забезпечує посилений захист ноутбука, зберігаючи при цьому витриманий і сучасний вигляд. Жорстка частина з полікарбонату захищає корпус від подряпин, тріщин і механічних навантажень, а вставки з TPU підвищують ударостійкість і амортизують удари при випадкових падіннях чи поштовхах.</p>
 <p><strong>Поверхня накладки вирізняється стійкістю до потертостей</strong> і легко очищається від пилу та відбитків пальців. Вона зберігає оригінальний дизайн MacBook, підкреслюючи його колір і форму, водночас додаючи пристрою акуратного та функціонального вигляду.</p>
 <p><strong>Конструкція Unit враховує всі особливості ноутбука</strong>. Нижня частина обладнана вентиляційними отворами, які підтримують стабільне охолодження навіть під час тривалих робочих навантажень. Це допомагає уникнути перегріву й забезпечує стабільну продуктивність MacBook.</p>
@@ -6286,7 +6811,7 @@ Data cables/power cables
 <picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/37423/9/original.jpg</picture>
 <picture>https://bonocase.com.ua/Media/shop-28442/_imports/img/products/37423/10/original.jpg</picture>
 <vendor>ArmorStandart</vendor>
-<price>1199</price><param name="Совместимый бренд">Apple</param><param name="Совместимая серия">MacBook</param><param name="Совместимая модель">Pro 14  M1 A2442, Pro 14  M2 Max (2023) A2779, Pro 14  M2 Pro (2023) A2779, Pro 14.2  M5 (2025) A3434, Pro 14  M5 Pro (2026) A3426, Pro 14  M5 Max (2026) A3427, Pro 14  M3 (2023) A2918, Pro 14  M3 Max (2023) A2992, Pro 14  M3 Pro (2023) A2992, Pro 14  M4 (2024) A3112, Pro 14  M4 Max (2024) A3185, Pro 14  M4 Pro (2024) A3401</param><param name="Список совместимых устройств товара">Apple MacBook Pro 14  M1 A2442; Apple MacBook Pro 14  M2 Max (2023) A2779; Apple MacBook Pro 14  M2 Pro (2023) A2779; Apple MacBook Pro 14  M3 (2023) A2918; Apple MacBook Pro 14  M3 Max (2023) A2992; Apple MacBook Pro 14  M3 Pro (2023) A2992; Apple MacBook Pro 14  M4 (2024) A3112; Apple MacBook Pro 14  M4 Max (2024) A3185; Apple MacBook Pro 14  M4 Pro (2024) A3401; Apple MacBook Pro 14.2  M5 (2025) A3434; Apple MacBook Pro 14  M5 Pro (2026) A3426; Apple MacBook Pro 14  M5 Max (2026) A3427</param><param name="EAN">2377700794712</param><param name="Артикул">79471</param></offer><offer id="14386713" available="true"><name>Накладка  Unit для MacBook Pro 14 M5-M1/M5 Pro-M2 Pro/M5 Max-M2 Max Clear ArmorStandart 79472</name><quantity_in_stock>5</quantity_in_stock>
+<price>1199</price><param name="Совместимый бренд">Apple</param><param name="Совместимая модель">Pro 14  M5 Max (2026) A3427, Pro 14  M3 Pro (2023) A2992, Pro 14  M4 (2024) A3112, Pro 14  M4 Max (2024) A3185, Pro 14  M4 Pro (2024) A3401, Pro 14.2  M5 (2025) A3434, Pro 14  M5 Pro (2026) A3426, Pro 14  M1 A2442, Pro 14  M2 Max (2023) A2779, Pro 14  M2 Pro (2023) A2779, Pro 14  M3 (2023) A2918, Pro 14  M3 Max (2023) A2992</param><param name="Список совместимых устройств товара">Apple MacBook Pro 14  M1 A2442; Apple MacBook Pro 14  M2 Max (2023) A2779; Apple MacBook Pro 14  M2 Pro (2023) A2779; Apple MacBook Pro 14  M3 (2023) A2918; Apple MacBook Pro 14  M3 Max (2023) A2992; Apple MacBook Pro 14  M3 Pro (2023) A2992; Apple MacBook Pro 14  M4 (2024) A3112; Apple MacBook Pro 14  M4 Max (2024) A3185; Apple MacBook Pro 14  M4 Pro (2024) A3401; Apple MacBook Pro 14.2  M5 (2025) A3434; Apple MacBook Pro 14  M5 Pro (2026) A3426; Apple MacBook Pro 14  M5 Max (2026) A3427</param><param name="EAN">2377700794712</param><param name="Совместимая серия">MacBook</param><param name="Артикул">79471</param></offer><offer id="14386713" available="true"><name>Накладка  Unit для MacBook Pro 14 M5-M1/M5 Pro-M2 Pro/M5 Max-M2 Max Clear ArmorStandart 79472</name><quantity_in_stock>5</quantity_in_stock>
 <description><![CDATA[<p><strong>Unit для MacBook</strong> &amp;ndash; це серія накладок нового покоління, що поєднує у собі міцність полікарбонату (PC) та гнучкість термопластичного поліуретану (TPU). Така комбінація матеріалів забезпечує посилений захист ноутбука, зберігаючи при цьому витриманий і сучасний вигляд. Жорстка частина з полікарбонату захищає корпус від подряпин, тріщин і механічних навантажень, а вставки з TPU підвищують ударостійкість і амортизують удари при випадкових падіннях чи поштовхах.</p>
 <p><strong>Поверхня накладки вирізняється стійкістю до потертостей</strong> і легко очищається від пилу та відбитків пальців. Вона зберігає оригінальний дизайн MacBook, підкреслюючи його колір і форму, водночас додаючи пристрою акуратного та функціонального вигляду.</p>
 <p><strong>Конструкція Unit враховує всі особливості ноутбука</strong>. Нижня частина обладнана вентиляційними отворами, які підтримують стабільне охолодження навіть під час тривалих робочих навантажень. Це допомагає уникнути перегріву й забезпечує стабільну продуктивність MacBook.</p>
